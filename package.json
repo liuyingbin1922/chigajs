@@ -1,0 +1,19 @@
+{
+  "name": "chiga",
+  "version": "1.0.0",
+  "description": "a node framework based on koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "koa2"
+  ],
+  "author": "yingbin",
+  "license": "ISC",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7",
+    "log4js": "^6.3.0"
+  }
+}
