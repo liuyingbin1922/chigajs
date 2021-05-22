@@ -1,0 +1,3 @@
+[submodule "chigajs"]
+	path = chigajs
+	url = https://github.com/liuyingbin1922/chigajs.git
